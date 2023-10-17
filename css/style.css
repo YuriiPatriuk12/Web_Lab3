@@ -156,3 +156,7 @@ li{
 ul{
     height: fit-content;
 }
+
+p{
+    word-break: break-word;
+}
